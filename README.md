@@ -1,2 +1,2 @@
-# Python-Games
+# Snake Game
 ![](https://github.com/GaneshKumarKhilji/Python-Games/blob/master/Snakegame.png?raw=true)
